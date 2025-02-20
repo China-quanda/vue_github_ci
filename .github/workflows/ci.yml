@@ -5,7 +5,7 @@ on:
   # 触发条件：在针对 `main` 分支的推送上运行。如果你使用 `master` 分支作为默认分支，请将其更改为 `master`
   push:
     branches: 
-      - master
+      - main
 
 jobs:
   # 构建工作
