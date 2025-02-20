@@ -34,7 +34,7 @@ jobs:
       - name: Install and Build
         run: |
             pnpm install
-            pnpm run docs:build
+            pnpm run build
 
       # 部署到服务器
       - name: Upload to Deploy Server
