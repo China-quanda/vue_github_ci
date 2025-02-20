@@ -11,6 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
+  <div style="text-align: center;">Deploy the Vue site to Alibaba Cloud</div>
   <HelloWorld msg="Vite + Vue" />
 </template>
 
